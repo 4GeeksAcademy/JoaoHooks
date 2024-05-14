@@ -34,7 +34,7 @@
     margin-right: auto;
     margin-bottom: 10px;
     box-shadow: 0 0 25px 25px rgba(247, 0, 0, 0.712);    
-    
+    background-color: red;
     width: 70px;
     height: 70px;
     
@@ -54,7 +54,7 @@
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
-    
+    background-color: yellow;
     width: 70px;
     height: 70px;
     box-shadow: 0 0 25px 25px rgba(251, 255, 0, 0.815);  
@@ -73,7 +73,7 @@
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
-    
+    background-color: green;
     width: 70px;
     height: 70px;
     box-shadow: 0 0 25px 25px rgba(0, 243, 20, 0.781);  
@@ -89,14 +89,13 @@
     border-radius: 100%;
 }
 .purple-selected{
-    display: none;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
-    
+    background-color: purple;
     width: 70px;
     height: 70px;
-    background-color: blue;
+    box-shadow: 0 0 25px 25px rgba(174, 0, 243, 0.836); 
     border-radius: 100%;
 }
     
